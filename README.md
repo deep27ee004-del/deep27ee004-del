@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Deep! 👋
 
-<!--
-**deep27ee004-del/deep27ee004-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎓 Pursuing studies in **Electrical / Electronics Engineering**.
+- 🛠️ Deeply interested in **Power Systems, Microcontrollers (Arduino Nano), and IoT applications**.
+- 💻 Currently working on - circuit simulations
+### 🛠️ Tech Stack & Tools
+- **Languages:** C, Python,  (Arduino)
+- **Hardware/Simulation:** MATLAB/Simulink , Arduino Nano, UNO Wokwi, LTspice, Tinkercad,Proteous
+- **Documentation & Data:** Microsoft Excel (Data Analysis), Microsoft Word (Project Reports)
+- **Key Concepts:** DSTATCOM, Power Factor Compensation
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![Deep's GitHub Stats](https://github-
